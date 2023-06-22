@@ -1,0 +1,25 @@
+.my-class {
+  background-color: #9DC08B;
+  color: #0E8388;
+  line-height: inherit;
+  letter-spacing: normal;
+  text-align: justify;
+  background: #000000
+
+}
+
+
+#my-id {
+  background-color: #0E8388;
+  color: #002B5B;
+  letter-spacing: inherit;
+  text-shadow: #rgb(255, 0, 0);
+}
+
+
+p {
+  background-color: #FFACAC ;
+  color: #000;
+  text-shadow: #hsl(360, 100%, 100%);
+}
+body
